@@ -1,5 +1,5 @@
 #include "daisysp.h"
-#include "../src/kxmx_bluemchen.h"
+#include "kxmx_bluemchen/src/kxmx_bluemchen.h"
 #include <string.h>
 
 using namespace kxmx;
